@@ -1,0 +1,54 @@
+#satauri{
+	text-align: center;
+	color: #A9CBB7;
+	font-size: 50px;
+	text-decoration:overline underline ;
+	text-decoration-color: #5E565A;
+	text-decoration-thickness:20px ;
+	text-decoration-style: double;
+	letter-spacing: 10px;
+}
+.qvesatauri{
+	text-align: center;
+	color: darkkhaki;
+	font-size: 60px;
+	font-style: italic;
+}
+.logo{
+	text-align: center;
+	font-size: 75px;
+	color: #5E565A;
+	text-shadow: 5px -10px 12px black;
+
+}
+.info{
+	background-color: #EFECCA;
+	width: 85%;
+	text-align: justify;
+	padding-top: 15px; /*shida sazvrebi*/
+	padding-bottom: 15px ;
+	padding-right: 25px;
+	padding-left: 25px;
+	margin: 30px;/*gare sazgvrebi*/
+	
+}
+.info h2{
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 15px;
+	text-shadow: 5px 5px 5px black;
+	color: white;
+}
+
+.info p{
+	text-indent:50px ;
+	font-size: 20px;
+	letter-spacing: 2px;
+	word-spacing: 4px;
+	line-height: 1.5;
+}
+.p, span{
+	font-size: 50px;
+	color: black;
+
+}
